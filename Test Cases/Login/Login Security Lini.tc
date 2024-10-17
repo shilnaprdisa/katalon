@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>T00001</name>
+   <name>Login Security Lini</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>3ec5785f-0ccd-4bbc-98be-79fcabf8933d</testCaseGuid>
+   <testCaseGuid>6be8ce34-e08a-41dc-ae87-44dd9f755c43</testCaseGuid>
 </TestCaseEntity>
